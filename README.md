@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
 Things you may want to cover:
+  Finished tutorial
+  Link: https://guides.rubyonrails.org/getting_started.html 
 
 * Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
+  Ruby 2.7.2
+ 
+* Database
+  Sqlite
+ 
+* Database version
+  Sqlite 3.8.7.2
 
 * How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+  Open cmd
+  Run: rails start
